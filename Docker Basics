@@ -1,0 +1,25 @@
+New to Docker?
+
+docker run -dp 80:80 docker/getting-started
+
+Just a single container which can help you learn -
+
+- Getting Started
+- Our Application
+- Updating our App
+- Sharing our App
+- Persisting our DB
+- Using Bind Mounts
+- Multi-Container Apps
+- Using Docker Compose
+- Image Building Best Practices
+- What Next?
+- Container Orchestration
+- Cloud Native Computing Foundation Projects
+
+
+1. Join DockerLabs : dockerlabs.collabnix.com
+2. Join Kubelabs: kubelabs.collabnix.com
+3. Join Collabnix Slack -
+
+https://lnkd.in/fmqCzgH
